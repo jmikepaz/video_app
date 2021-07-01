@@ -6,7 +6,7 @@ El objetivo de este proyecto es tomar video desde la aplicacion y poderlo almace
 
 
 
-#PM1LAB201410078
+#PM1LAB201410010078
 
  
 
